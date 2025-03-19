@@ -1,0 +1,15 @@
+[package]
+name = "RealEstate"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule ="0x354d9d144f0e0150e62ac8bc56cfbbcde193f2860bfcfe2e6a229e95df4c39c1"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies] 
