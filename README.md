@@ -23,5 +23,10 @@ Our vision is to create a decentralized and trustless marketplace for virtual re
 - **Instant Transfers**: Buyers can seamlessly purchase land, with ownership recorded on-chain.
 - **Aptos Token Payments**: Transactions are facilitated using Aptos tokens for seamless settlements.
 
+## Smart Contract
+![image](https://github.com/user-attachments/assets/8e081a3e-e74c-400e-9f0f-a705de13e77c)
+0x8ab39de81696d5bdc0859e6b4dd40851f7054934f7836cc04e5b6e9163e083d5
+
+
 
 
